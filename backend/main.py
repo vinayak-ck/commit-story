@@ -10,6 +10,9 @@ from services.github import get_branches
 from services.bug import predict_bugs
 from services.security import analyze_security
 
+import os
+allow_origins=[os.getenv("FRONTEND_URL", "*")]
+
 app = FastAPI()
 
 app.add_middleware(
