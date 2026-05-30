@@ -71,6 +71,18 @@ Get a GitHub token at [github.com/settings/tokens](https://github.com/settings/t
 
 ---
 
+## 👥 Team
+
+Built by:
+
+- Vinayak C Kanavalli
+- Sujan H U
+- V Mohankumar
+- Y Vishnuvardhan Reddy
+
 ## 📬 Contact
 
-Built by [Vinayak Kanavalli](https://github.com/vinayak-ck) — vckanavalli@gmail.com
+For queries or collaboration:
+
+Email: vckanavalli@gmail.com
+GitHub: https://github.com/vinayak-ck
